@@ -1,0 +1,7 @@
+// LV-0   Raw/crude       5 Food
+// LV-1   Poor Quality    10Food
+// LV-2   Questionable    15Food
+// LV-2.5 Grow            20Food
+// LV-3   Average food    25Food
+// LV-4   Decent food     30Food
+// LV-5   Amazing food    35Food
